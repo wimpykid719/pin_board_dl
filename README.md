@@ -6,4 +6,4 @@
     - 各種モジュール
 
 ### Paste_url.pyをすると下記のようにURLが画像に貼り付けられます。
-![urlをペーストした画像イメージ](img/hero.png "1url_pasted.jpg")
+![urlをペーストした画像イメージ](img/1url_pasted.jpg "1url_pasted.jpg")
